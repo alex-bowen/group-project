@@ -8,4 +8,4 @@ html, CSS, JavaScript, jquery, AJAX, Bootstrap, jonsuh.com (hamburger), google f
 API's used:
 Yummly, Zomato, Google Maps
 
-Live Link:
+Live Link: https://alex-bowen.github.io/group-project/
